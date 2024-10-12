@@ -30,7 +30,6 @@ import CourseDetails from "./pages/CourseDetails";
 import ViewCourse from "./pages/ViewCourse";
 // import VideoDetails from 
 import VideoDetails from "./components/core/ViewCourse/VideoDetails";
-import TestingPage from "./components/TestingPage/TestingPage";
 
 
 function App() {
